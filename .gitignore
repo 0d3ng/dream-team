@@ -1,0 +1,8 @@
+.Python
+lib/
+include/
+bin/
+*.json
+.project
+.pydevproject
+.settings/
